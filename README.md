@@ -15,11 +15,33 @@ No Python installation required — just download and run the `.exe`.
 
 ## 🚀 Download
 
-👉 **Download the latest EXE here:**
+👉 [⬇️ Download Windows EXE here](https://github.com/JeffereyWu-AI/win-youtube-downloader/releases/latest/download/win_youtube_download.exe)
 
-```
-https://github.com/JeffereyWu-AI/win-youtube-downloader/releases/latest/download/win_youtube_download.exe
-```
+---
+
+## 🍪 Cookies Required (Important)
+
+This app **requires cookies** to download most YouTube videos.
+
+### Why?
+
+YouTube blocks many downloads unless you're logged in.
+
+### 🧩 Step-by-step (Chrome)
+
+1. Open **Google Chrome**
+2. Log in to YouTube
+3. Install extension: "Get cookies.txt LOCALLY"
+4. Go to YouTube page
+5. Click the extension → export `cookies.txt`
+6. Load it in the app later
+
+
+### ⚠️ Notes
+
+* Cookies file may expire → re-export if download fails
+* Keep your cookies private (contains login session)
+
 ---
 
 ## 🖥️ How to Use
@@ -29,7 +51,6 @@ https://github.com/JeffereyWu-AI/win-youtube-downloader/releases/latest/download
 * Double-click `win_youtube_download.exe`
 * No installation required
 
----
 
 ### 2. First Launch (Auto Setup)
 
@@ -41,7 +62,7 @@ On first run, the app will automatically download required tools:
 
 ⏳ This may take a few minutes depending on your network.
 
----
+
 
 ### 3. Download a Video
 
@@ -57,33 +78,10 @@ On first run, the app will automatically download required tools:
 5. Choose output folder
 6. Click **Start Download**
 
----
 
-## 🍪 About Cookies (Important)
-
-Some videos (e.g. private, age-restricted, or members-only) require cookies.
-
-### How to get cookies.txt:
-
-You can export cookies using browser extensions like:
-
-* "Get cookies.txt"
-
-Then load it in the app.
 
 ---
 
-## 📂 Output
-
-Downloaded files will be saved to:
-
-```
-/video
-```
-
-(or your selected folder)
-
----
 
 ## ✨ Features
 
@@ -91,9 +89,6 @@ Downloaded files will be saved to:
 * Auto-install dependencies
 * Supports multiple download modes
 * Quality selection (1080p / 720p / etc.)
-* Integrated logging panel
-* No popup CMD window
-
 
 
 
