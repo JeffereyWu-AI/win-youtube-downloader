@@ -11,13 +11,13 @@ This tool allows you to download:
 
 No Python installation required — just download and run the `.exe`.
 
----
+
 
 ## 🚀 Download
 
 👉 [⬇️ Download Windows EXE here](https://github.com/JeffereyWu-AI/win-youtube-downloader/releases/latest/download/win_youtube_download.exe)
 
----
+
 
 ## 🍪 Cookies Required (Important)
 
