@@ -30,11 +30,10 @@ YouTube blocks many downloads unless you're logged in.
 ### 🧩 Step-by-step (Chrome)
 
 1. Open **Google Chrome**
-2. Log in to YouTube
-3. Install extension: "Get cookies.txt LOCALLY"
-4. Go to YouTube page
-5. Click the extension → export `cookies.txt`
-6. Load it in the app later
+2. Install chrome extension: "Get cookies.txt LOCALLY"
+3. Log in to YouTube
+4. Click the extension → export `cookies.txt`
+5. Load it in the app later
 
 
 ### ⚠️ Notes
