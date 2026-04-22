@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole win_youtube_download.py
